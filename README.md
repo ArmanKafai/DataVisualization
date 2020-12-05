@@ -2,4 +2,4 @@
 
 
 
-<iframe src="https://armankafai.shinyapps.io/DataVizProject/" width="100%" height="400px"></iframe>
+<iframe src="https://armankafai.shinyapps.io/DataVizProject/" style="border:none;width:1000px;height:500px;"></iframe>
